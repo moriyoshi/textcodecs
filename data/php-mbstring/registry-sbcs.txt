@@ -1,0 +1,8 @@
+php-armscii-8.ucm
+php-ascii.ucm
+php-cp850.ucm
+php-cp866.ucm
+php-iso-8859-1.ucm
+php-iso-8859-16.ucm
+php-windows-1251.ucm
+php-windows-1254.ucm
